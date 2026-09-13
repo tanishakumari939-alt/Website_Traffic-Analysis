@@ -174,7 +174,6 @@ The project contains multiple visualizations:
 
 ### Metric	Average
 
-
 | Metric | Average |
 
 |---|---:|
