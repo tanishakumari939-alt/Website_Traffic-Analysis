@@ -190,10 +190,12 @@ The project contains multiple visualizations:
 
 - What proportion of sessions are engaged? 
 - How does engaged traffic vary between channels?
-- 
+ 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 Website-Traffic-Analysis/
 │
 ├── 📂 Dataset/
@@ -211,5 +213,6 @@ Website-Traffic-Analysis/
 │   └── traffic_by_hour_channel.png
 │
 └── 📄 README.md
+```
 
 
