@@ -103,41 +103,64 @@ The project contains multiple visualizations:
 | 07 | Engagement Rate vs Sessions | 📈 Line Chart |
 
 
+
 ## 🖼️ Project Visualizations
 
+
+
 ### 📈 Users & Sessions Over Time
+
+
 <img width="857" height="509" alt="image" src="https://github.com/user-attachments/assets/7f055bfa-d3e7-4d7d-a16c-b9e83b0c5f72" />
 
 
+
 ### 📊 Users by Channel
+
+
 <img width="717" height="536" alt="image" src="https://github.com/user-attachments/assets/2c7838c8-a013-4335-959d-0947d92b872c" />
 
 
 
 ### ⏱️ Average Engagement Time
+
+
 <img width="706" height="542" alt="image" src="https://github.com/user-attachments/assets/408b61f2-35ad-4d5a-93aa-ef6f0eda4e96" />
 
 
 
+
 ### 📦 Engagement Rate Distribution
+
+
 <img width="695" height="535" alt="image" src="https://github.com/user-attachments/assets/818392ed-69b8-42a5-bf55-441649429e74" />
 
 
 
+
 ### 🔄 Engaged vs Non-Engaged Sessions
+
+
 <img width="784" height="532" alt="image" src="https://github.com/user-attachments/assets/c6df0011-142f-479e-9b81-ee0eb6348048" />
 
 
 
 
+
 ### 🔥 Traffic Heatmap
+
+
 <img width="924" height="541" alt="image" src="https://github.com/user-attachments/assets/cb15df38-68d5-4f53-8426-d5535092707b" />
 
 
 
 
+
 ### 🔢 Engagement Rate vs Session Over Time
+
+
 <img width="859" height="474" alt="image" src="https://github.com/user-attachments/assets/45da61e4-0f91-4672-8e26-0dbaa80fc2d0" />
+
 
 
 
@@ -148,9 +171,12 @@ The project contains multiple visualizations:
 
 ## 💡 Key Metrics
 
+
 ### Metric	Average
 
+
 | Metric | Average |
+
 |---|---:|
 | 👥 Users | 41.94 |
 | 🧭 Sessions | 51.19 |
