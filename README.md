@@ -120,6 +120,8 @@ The project contains multiple visualizations:
 
 
 ### ⏱️ Average Engagement Time
+<img width="706" height="542" alt="image" src="https://github.com/user-attachments/assets/408b61f2-35ad-4d5a-93aa-ef6f0eda4e96" />
+
 
 
 ### 📦 Engagement Rate Distribution
