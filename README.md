@@ -211,9 +211,9 @@ Website-Traffic-Analysis/
 │   ├── engagement_time_by_channel.png
 │   ├── engagement_rate_distribution.png
 │   ├── engaged_vs_non_engaged.png
-│   └── traffic_by_hour_channel.png
-│
-└── 📄 README.md
+│   ├── traffic by hour channel.png
+|   ├── engagement rate vs session over time.png
+|   └── 📄 README.md
 ```
 
 
