@@ -175,7 +175,6 @@ The project contains multiple visualizations:
 ### Metric	Average
 
 | Metric | Average |
-
 |---|---:|
 | 👥 Users | 41.94 |
 | 🧭 Sessions | 51.19 |
