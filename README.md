@@ -159,25 +159,40 @@ The project contains multiple visualizations:
 | 📌 Events / Session | 4.68 |
 | 📈 Engagement Rate | 50.34% |
 | ⚡ Event Count | 242.27 |
+
 ---
 
-The analysis helps answer important website-performance questions:
+## 🔍 Insights
 
-👥 User Behaviour
-How many users visit the website?
-How does traffic change over time?
-📣 Channel Performance
-Which channels generate more users?
-Which channels show stronger engagement?
-⏱️ Engagement
-Which channels have higher engagement time?
-How does engagement rate vary?
-🕐 Time Analysis
-Which hours have higher traffic?
-Are there noticeable hourly traffic patterns?
-📊 Session Quality
-What proportion of sessions are engaged?
-How does engaged traffic vary between channels?
+#### The analysis helps answer important website-performance questions:
+
+### 👥 User Behaviour
+
+- How many users visit the website?
+- How does traffic change over time? 
+
+### 📣 Channel Performance
+
+-  Which channels generate more users? 
+-  Which channels show stronger engagement? 
+
+### ⏱️ Engagement
+
+- Which channels have higher engagement time? 
+- How does engagement rate vary? 
+
+### 🕐 Time Analysis
+
+- Which hours have higher traffic? 
+- Are there noticeable hourly traffic patterns? 
+
+### 📊 Session Quality
+
+- What proportion of sessions are engaged? 
+- How does engaged traffic vary between channels?
+- 
+---
+
 📁 Project Structure
 Website-Traffic-Analysis/
 │
