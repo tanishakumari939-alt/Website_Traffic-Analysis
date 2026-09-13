@@ -89,8 +89,6 @@ The dataset contains website traffic information with the following columns:
 📊 Data Visualization
         ↓
 💡 Insights & Findings
-📊 Analysis Performed
-1️⃣ Data Cleaning
 
 ```
 
@@ -139,16 +137,16 @@ The project contains multiple visualizations:
 
 ### Metric	Average
 
-👥 Users	41.94
-🧭 Sessions	51.19
-💬 Engaged Sessions	28.33
-⏱️ Avg. Engagement Time	66.64
-🔄 Engaged Sessions / User	0.606
-📌 Events / Session	4.68
-📈 Engagement Rate	50.34%
-⚡ Event Count	242.27
-🔍 Insights
-
+| Metric | Average |
+|---|---:|
+| 👥 Users | 41.94 |
+| 🧭 Sessions | 51.19 |
+| 💬 Engaged Sessions | 28.33 |
+| ⏱️ Avg. Engagement Time | 66.64 sec |
+| 🔄 Engaged Sessions / User | 0.606 |
+| 📌 Events / Session | 4.68 |
+| 📈 Engagement Rate | 50.34% |
+| ⚡ Event Count | 242.27 |
 ---
 
 The analysis helps answer important website-performance questions:
