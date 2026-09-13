@@ -137,6 +137,8 @@ The project contains multiple visualizations:
 
 
 ### 🔢 Engagement Rate vs Session Over Time
+<img width="859" height="474" alt="image" src="https://github.com/user-attachments/assets/45da61e4-0f91-4672-8e26-0dbaa80fc2d0" />
+
 
 
 
