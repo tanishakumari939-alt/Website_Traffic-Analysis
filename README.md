@@ -137,6 +137,8 @@ The project contains multiple visualizations:
 
 
 ### 🔥 Traffic Heatmap
+<img width="924" height="541" alt="image" src="https://github.com/user-attachments/assets/cb15df38-68d5-4f53-8426-d5535092707b" />
+
 
 
 ---
