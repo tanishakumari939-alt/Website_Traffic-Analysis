@@ -113,7 +113,7 @@ The project contains multiple visualizations:
 ## 🖼️ Project Visualizations
 
 ### 📈 Users & Sessions Over Time
-![Users and Sessions](Screenshots/sessions_users_over_time.png)
+Sessions and Users over time
 
 ### 📊 Users by Channel
 ![Users by Channel](Screenshots/users_by_channel.png)
