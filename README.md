@@ -113,22 +113,23 @@ The project contains multiple visualizations:
 ## 🖼️ Project Visualizations
 
 ### 📈 Users & Sessions Over Time
-Sessions and Users over time
+<img width="857" height="509" alt="image" src="https://github.com/user-attachments/assets/7f055bfa-d3e7-4d7d-a16c-b9e83b0c5f72" />
+
 
 ### 📊 Users by Channel
-![Users by Channel](Screenshots/users_by_channel.png)
+
 
 ### ⏱️ Average Engagement Time
-![Engagement Time](Screenshots/engagement_time_by_channel.png)
+
 
 ### 📦 Engagement Rate Distribution
-![Engagement Rate](Screenshots/engagement_rate_distribution.png)
+
 
 ### 🔄 Engaged vs Non-Engaged Sessions
-![Engaged Sessions](Screenshots/engaged_vs_non_engaged.png)
+
 
 ### 🔥 Traffic Heatmap
-![Traffic Heatmap](Screenshots/traffic_by_hour_channel.png)
+
 
 ---
 
