@@ -218,12 +218,12 @@ Website-Traffic-Analysis/
 --- 
 
 ## ▶️ How to Run
-- 1. Clone the Repository
-- 2. Open the Project
-- 3. Install Required Libraries
-- 4. Start Jupyter Notebook
-- 5. Open the Notebook
-- 6. Run All Cells
+-  Clone the Repository
+-  Open the Project
+-  Install Required Libraries
+-  Start Jupyter Notebook
+-  Open the Notebook
+-  Run All Cells
 
 ---
 
@@ -250,5 +250,18 @@ Some possible improvements include:
 - 📣 Channel Performance Analysis
 - 🕐 Hourly Traffic Analysis
 - 💡 Business Insights
+
+## 📌 Skills Demonstrated
+
+- 🧹 Data Cleaning & Preprocessing
+- 🗄️ SQL & MySQL
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 📊 Microsoft Excel
+- 📈 Power BI & Data Visualization
+- 🔍 Exploratory Data Analysis (EDA)
+- 🎯 KPI Analysis
+- 💡 Business Insights
+- 🧠 Problem-Solving
+- 📑 Data Reporting & Interpretation
 
 
