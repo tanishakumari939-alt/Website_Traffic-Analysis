@@ -73,23 +73,16 @@ The dataset contains website traffic information with the following columns:
 
 ## 🔄 Analysis Workflow
 
-```text
-📥 Import Dataset
-        ↓
-🧹 Data Cleaning
-        ↓
-🗓️ Date & Time Conversion
-        ↓
-🔢 Convert Data Types
-        ↓
-🕐 Extract Hour
-        ↓
-🔎 Exploratory Data Analysis
-        ↓
-📊 Data Visualization
-        ↓
-💡 Insights & Findings
 
+```mermaid
+flowchart TD
+    A[📂 Import Dataset] --> B[🧹 Data Cleaning]
+    B --> C[🗓️ Date & Time Conversion]
+    C --> D[🔢 Convert Data Types]
+    D --> E[🕐 Extract Hour]
+    E --> F[🔎 Exploratory Data Analysis]
+    F --> G[📊 Data Visualization]
+    G --> H[💡 Insights & Findings]
 ```
 
 ## 📈 Visualizations
