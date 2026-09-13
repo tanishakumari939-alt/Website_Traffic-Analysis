@@ -215,5 +215,40 @@ Website-Traffic-Analysis/
 |   ├── engagement rate vs session over time.png
 |   └── 📄 README.md
 ```
+--- 
+
+## ▶️ How to Run
+- 1. Clone the Repository
+- 2. Open the Project
+- 3. Install Required Libraries
+- 4. Start Jupyter Notebook
+- 5. Open the Notebook
+- 6. Run All Cells
+
+---
+
+
+## 🚀 Future Improvements
+
+Some possible improvements include:
+
+- 📊 Create an interactive Power BI dashboard
+- 🗄️ Perform SQL-based website traffic analysis
+- 📅 Add daily and weekly traffic trends
+- 📣 Add more channel-level analysis
+- 🤖 Build a traffic prediction model
+- 📌 Create automated KPI reports
+- 🌐 Deploy the analysis as an interactive web application
+
+## ⭐ Project Highlights
+
+- 🐍 Python
+- 📊 Exploratory Data Analysis
+- 🧹 Data Cleaning
+- 📈 Data Visualization
+- 👥 User Behaviour Analysis
+- 📣 Channel Performance Analysis
+- 🕐 Hourly Traffic Analysis
+- 💡 Business Insights
 
 
