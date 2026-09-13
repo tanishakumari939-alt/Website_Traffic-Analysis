@@ -117,6 +117,8 @@ The project contains multiple visualizations:
 
 
 ### 📊 Users by Channel
+<img width="717" height="536" alt="image" src="https://github.com/user-attachments/assets/2c7838c8-a013-4335-959d-0947d92b872c" />
+
 
 
 ### ⏱️ Average Engagement Time
