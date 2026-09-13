@@ -132,7 +132,8 @@ The project contains multiple visualizations:
 
 
 ### 🔄 Engaged vs Non-Engaged Sessions
-<img width="710" height="541" alt="image" src="https://github.com/user-attachments/assets/7afde78d-923c-4a86-9a1f-bd9026c4eb27" />
+<img width="784" height="532" alt="image" src="https://github.com/user-attachments/assets/c6df0011-142f-479e-9b81-ee0eb6348048" />
+
 
 
 
