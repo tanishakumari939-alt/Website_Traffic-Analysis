@@ -127,6 +127,8 @@ The project contains multiple visualizations:
 
 
 ### 📦 Engagement Rate Distribution
+<img width="695" height="535" alt="image" src="https://github.com/user-attachments/assets/818392ed-69b8-42a5-bf55-441649429e74" />
+
 
 
 ### 🔄 Engaged vs Non-Engaged Sessions
